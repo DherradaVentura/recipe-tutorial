@@ -3,7 +3,6 @@ import Recipe from './Recipe'
 import '../styles/App.css';
 
 const App = () => {
-
   const [recipes, setRecipes] = useState([]);
   const [search, setSearch] = useState('');
   const [query, setQuery] = useState('chicken');

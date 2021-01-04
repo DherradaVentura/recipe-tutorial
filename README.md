@@ -1,6 +1,8 @@
 # Simple Recipe App
 
-This version was inspired by devEd's tutorial on youtube. 
+This version was inspired by devEd's tutorial on youtube.
+
+![Screenshot](./public/Screen%20Shot%202021-01-04%20at%2012.33.04%20AM.png) 
 
 ## Available Scripts
 
